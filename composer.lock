@@ -1,0 +1,43 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "954be9cad1b4d3ccfd2d8f3ca178de36",
+    "packages": [
+        {
+            "name": "traewelling/line-colors",
+            "version": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Traewelling/line-colors.git",
+                "reference": "7eee248a0d3915cc76ea9f11b429a713abf0d80e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Traewelling/line-colors/zipball/7eee248a0d3915cc76ea9f11b429a713abf0d80e",
+                "reference": "7eee248a0d3915cc76ea9f11b429a713abf0d80e",
+                "shasum": ""
+            },
+            "default-branch": true,
+            "type": "library",
+            "support": {
+                "source": "https://github.com/Traewelling/line-colors/tree/main",
+                "issues": "https://github.com/Traewelling/line-colors/issues"
+            },
+            "time": "2023-09-16T15:22:10+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "traewelling/line-colors": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
+}

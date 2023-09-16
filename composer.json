@@ -1,0 +1,17 @@
+{
+  "name": "traewelling/line-colors-php",
+  "require": {
+    "traewelling/line-colors": "dev-main"
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/Traewelling/line-colors.git"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Traewelling\\LineColor\\": "src/"
+    }
+  }
+}
